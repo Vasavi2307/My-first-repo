@@ -1,3 +1,3 @@
 # Demo
 
-Some Description my first project!
+Some Description my first project.
